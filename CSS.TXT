@@ -1,0 +1,25 @@
+(v1.00) css - Command Shell Starter
+By dropping a file or folder, opens an
+OS/2 Command Window with working directory
+preset to that of the dropped file/folder.
+With C source. "PostcardWare" - If you get
+any value from this app, please send a
+lively or colorful postcard to my 2yo
+daughter Anita & brighten her day!
+(PO Box 5281 Wollongong 2500 Australia)
+Author: Paul Gallagher, paulpg@ibm.net
+
+USAGE:
+
+Drop a file or folder on the CSS icon, or the CSS
+application window & it will open a new OS/2 
+command window with the working directory set to the
+directory of the folder or file you dropped.
+A handy utility for guys who like the WPS but just
+can't totally foresake the command line!
+
+Please report any bugs or improvements by e-mailing
+me to the address above, and btw, I'm serious about
+the postcard business - it really would make her
+day to get a postcard or two!
+

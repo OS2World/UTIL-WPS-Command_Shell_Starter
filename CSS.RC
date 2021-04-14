@@ -1,0 +1,38 @@
+/*-----------------------------------------------------------------------------
+;                                 ***keywords*** "%l"
+; LOCK STATUS       "PAULG/GO"
+;
+; project name
+; Copyright (c) Paul Gallagher 1995
+;
+;                                 ***keywords*** "%n"
+; Filename          "CSS.RC"
+; Platform          OS/2 (Borland C++ 1.01)
+;
+; Authors           Paul Gallagher (paulpg@ibm.net)
+;
+; Description       
+;
+;                                 ***keywords*** "Version: %v  Date: %d %t"
+; "Version: 1  Date: 17-Dec-95 23:00:24"
+;
+; Revision History
+;                                 ***revision-history***
+; 1 CSS.RC 17-Dec-95,23:00:24,`PAULG/GO' First release
+;                                 ***revision-history***
+;----------------------------------------------------------------------------*/
+                                  //
+#include <os2.h>
+#include "css.h"
+
+ICON ID_APPNAME CSS.ICO
+
+STRINGTABLE LOADONCALL MOVEABLE
+BEGIN
+    ID_APPNAME      "Shell Starter"
+    IDS_MSG1        "Drop a file or folder here to"
+    IDS_MSG2        "open a command window with"
+    IDS_MSG3        "matching current directory."
+END
+
+
